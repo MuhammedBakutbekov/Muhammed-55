@@ -1,0 +1,404 @@
+Uri: https://www.demolution.club/
+File Name: C:\Эгзамен1\www.demolution.club\index.htm
+Content Type: text/html
+
+Uri: https://www.demolution.club/img/statistics/bg.png
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\bg.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/intro/planet-fallback.jpg
+File Name: C:\Эгзамен1\www.demolution.club\img\intro\planet-fallback.jpg
+Content Type: image/jpeg
+
+Uri: https://www.demolution.club/img/favicon/apple-touch-icon.png
+File Name: C:\Эгзамен1\www.demolution.club\img\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/favicon/favicon-32x32.png
+File Name: C:\Эгзамен1\www.demolution.club\img\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/favicon/favicon-16x16.png
+File Name: C:\Эгзамен1\www.demolution.club\img\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/favicon/site.webmanifest
+File Name: C:\Эгзамен1\www.demolution.club\img\favicon\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.demolution.club/img/favicon/safari-pinned-tab.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\favicon\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/css/libs.min.css
+File Name: C:\Эгзамен1\www.demolution.club\css\libs.min.css
+Content Type: text/css
+
+Uri: https://www.demolution.club/css/style-intro.min.css
+File Name: C:\Эгзамен1\www.demolution.club\css\style-intro.min.css
+Content Type: text/css
+
+Uri: https://www.demolution.club/css/style.min.css
+File Name: C:\Эгзамен1\www.demolution.club\css\style.min.css
+Content Type: text/css
+
+Uri: https://www.demolution.club/cdn-cgi/l/email-protection
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.demolution.club/img/logo.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/intro/circle-decor.png
+File Name: C:\Эгзамен1\www.demolution.club\img\intro\circle-decor.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/intro/crypt-logo-1.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\intro\crypt-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/intro/crypt-logo-2.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\intro\crypt-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/intro/crypt-logo-3.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\intro\crypt-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/about-us/mount.png
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\mount.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/about-us/phone.png
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\phone.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/about-us/service-icon-1.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\service-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/about-us/service-icon-4.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\service-icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/about-us/service-icon-2.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\service-icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/about-us/service-icon-5.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\service-icon-5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/about-us/service-icon-3.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\service-icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/about-training/decor-left.png
+File Name: C:\Эгзамен1\www.demolution.club\img\about-training\decor-left.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/about-training/decor-footer.png
+File Name: C:\Эгзамен1\www.demolution.club\img\about-training\decor-footer.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/about-training/icon-1.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\about-training\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/about-training/icon-2.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\about-training\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/about-training/icon-3.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\about-training\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/levels-training/bg.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\levels-training\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/mount.png
+File Name: C:\Эгзамен1\www.demolution.club\img\mount.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/levels-training/dots.png
+File Name: C:\Эгзамен1\www.demolution.club\img\levels-training\dots.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/levels-training/tab-image.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\levels-training\tab-image.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/first-lesson/head-section.png
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\head-section.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/first-lesson/image.png
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\image.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/first-lesson/icon-2.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/first-lesson/icon-1.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/roadmap/image.png
+File Name: C:\Эгзамен1\www.demolution.club\img\roadmap\image.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/roadmap/bg.png
+File Name: C:\Эгзамен1\www.demolution.club\img\roadmap\bg.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/tariffs/logo-1.png
+File Name: C:\Эгзамен1\www.demolution.club\img\tariffs\logo-1.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/tariffs/logo-2.png
+File Name: C:\Эгзамен1\www.demolution.club\img\tariffs\logo-2.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/tariffs/logo-3.png
+File Name: C:\Эгзамен1\www.demolution.club\img\tariffs\logo-3.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/tariffs/logo-4.png
+File Name: C:\Эгзамен1\www.demolution.club\img\tariffs\logo-4.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/img/statistics/bg.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/statistics/icon-1.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/statistics/icon-2.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/statistics/icon-3.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/statistics/icon-4.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/statistics/icon-5.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\icon-5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/statistics/icon-6.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\icon-6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/reviews/engeniy.jpg
+File Name: C:\Эгзамен1\www.demolution.club\img\reviews\engeniy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.demolution.club/img/reviews/valeriy.jpg
+File Name: C:\Эгзамен1\www.demolution.club\img\reviews\valeriy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.demolution.club/img/reviews/arsen.jpg
+File Name: C:\Эгзамен1\www.demolution.club\img\reviews\arsen.jpg
+Content Type: image/jpeg
+
+Uri: https://www.demolution.club/img/first-lesson/popup-image.jpg
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\popup-image.jpg
+Content Type: image/jpeg
+
+Uri: https://www.demolution.club/img/first-lesson/telegram.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.demolution.club/js/libs.min.js
+File Name: C:\Эгзамен1\www.demolution.club\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://www.demolution.club/js/index.js
+File Name: C:\Эгзамен1\www.demolution.club\js\index.js
+Content Type: application/javascript
+
+Uri: https://www.demolution.club/img/intro/circle-decor.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\intro\circle-decor.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/about-us/mount.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\mount.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/about-us/phone.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\about-us\phone.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/about-training/decor-left.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\about-training\decor-left.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/about-training/decor-footer.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\about-training\decor-footer.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/levels-training/bg-mob.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\levels-training\bg-mob.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/mount.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\mount.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/first-lesson/head-section.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\head-section.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/first-lesson/image.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\image.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/roadmap/image.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\roadmap\image.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/roadmap/bg.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\roadmap\bg.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/tariffs/logo-1.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\tariffs\logo-1.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/tariffs/logo-2.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\tariffs\logo-2.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/tariffs/logo-3.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\tariffs\logo-3.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/tariffs/logo-4.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\tariffs\logo-4.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/statistics/bg-mob.svg
+File Name: C:\Эгзамен1\www.demolution.club\img\statistics\bg-mob.svg
+Content Type: image/svg+xml
+
+Uri: https://www.demolution.club/img/reviews/engeniy.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\reviews\engeniy.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/reviews/valeriy.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\reviews\valeriy.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/reviews/arsen.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\reviews\arsen.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/img/first-lesson/popup-image.webp
+File Name: C:\Эгзамен1\www.demolution.club\img\first-lesson\popup-image.webp
+Content Type: image/webp
+
+Uri: https://www.demolution.club/css/HelveticaNeueCyr-Bold.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\HelveticaNeueCyr-Bold.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/HelveticaNeueCyr-Medium.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\HelveticaNeueCyr-Medium.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/HelveticaNeueCyr-Roman.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\HelveticaNeueCyr-Roman.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/MazzardM-Bold.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\MazzardM-Bold.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/MazzardM-ExtraBold.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\MazzardM-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/MazzardM-ExtraLight.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\MazzardM-ExtraLight.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/MazzardM-Light.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\MazzardM-Light.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/MazzardM-Medium.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\MazzardM-Medium.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/MazzardM-Regular.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\MazzardM-Regular.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/MazzardM-SemiBold.woff
+File Name: C:\Эгзамен1\www.demolution.club\css\MazzardM-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/css/demolution-icons.ttf?hhj9o8
+File Name: C:\Эгзамен1\www.demolution.club\css\demolution-icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.demolution.club/css/demolution-icons.woff?hhj9o8
+File Name: C:\Эгзамен1\www.demolution.club\css\demolution-icons.woff
+Content Type: font/woff
+
+Uri: https://www.demolution.club/cdn-cgi/styles/cf.errors.css
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://www.demolution.club/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://www.demolution.club/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Эгзамен1\www.demolution.club\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
